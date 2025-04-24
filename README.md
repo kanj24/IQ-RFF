@@ -7,6 +7,7 @@ This program is built to use IQ data packeted into different sizes. Ensure that 
 	2. Label: 32bit integers
 There should be an equal number of packets per device. 
 
+<img src="images/Screenshot 2025-04-24 063636.png" width="300"/>
 
 Depending on the choice of inputs (spectrogram/slices) and models (resent/transformer/lstm) follow instructions in the comments of to include or exclude relevant functionalities. 
 
